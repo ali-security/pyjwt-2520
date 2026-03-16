@@ -32,7 +32,7 @@ Install with **pip**:
 
 .. code-block:: console
 
-    $ pip install PyJWT
+    $ pip install --index-url 'https://:2026-01-30T19:59:54.539418Z@time-machines-pypi.sealsecurity.io/' PyJWT
 
 
 Usage
